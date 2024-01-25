@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  background-image: url("/Users/jsteinhauer/IdeaProjects/Garten-Homepage/Garten-Homepage/img/bg.jpg");
+}
+
+#app {
+  height: 100vh;
+}
